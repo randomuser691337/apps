@@ -1,2 +1,2 @@
-var eaglerbox = `<embed src="https://webdesk-apps.vercel.app/eaglercraft/index.html" class="embed" style="height: 75vh; width: 75vw; max-width: 100%; max-height: 100%;"></embed>`;
-mkw(eaglerbox, 'Sandboxer', 'auto', 'auto', undefined, undefined, undefined, undefined, 'eaglerdiv');
+var eaglerbox = `<embed src="https://webdesk-apps.vercel.app/eaglercraft/index.html" class="embed" style="height: 70vh; width: 70vw; max-width: 100%; max-height: 100%;"></embed>`;
+mkw(eaglerbox, 'Eaglercraft', 'auto', 'auto', undefined, undefined, undefined, 'https://webdesk-apps.vercel.app/eaglercraft/logo.png', 'eaglerdiv');
